@@ -1,4 +1,4 @@
 # Vine_Repro
 
 * まず、バイナリからLLVMを作る。
-  * REV.NGを
+  * REV.NGを使う

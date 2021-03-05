@@ -2,7 +2,7 @@
 * まず、バイナリからLLVMを作る。
   * REV.NG はバイナリをLLVMにリフトアップしてくれる。
     * [REV.NG ツール](https://rev.ng/revng-features.html)
-    * [REV.NG 論文] (https://dl.acm.org/doi/10.1145/3033019.3033028)
+    * [REV.NG 論文](https://dl.acm.org/doi/10.1145/3033019.3033028)
 
 * LLVM から CFGを作る。
 
